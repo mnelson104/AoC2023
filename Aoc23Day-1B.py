@@ -13,4 +13,4 @@ with open('C:\AoC23\Day1_trebuchet.txt') as file:
                     z=x+y
                     print(z)
                     sumval = sumval + int(z)
-print(sumval)
+print("The puzzle answer is: ",sumval)
